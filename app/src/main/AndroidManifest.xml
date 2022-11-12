@@ -15,7 +15,7 @@
         android:theme="@style/Theme.MateriMVVM"
         tools:targetApi="31">
         <activity
-            android:name=".SearchActivity"
+            android:name=".ui.search.SearchActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"

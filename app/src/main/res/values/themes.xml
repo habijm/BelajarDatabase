@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.MateriMVVM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#2E2E2E</item>
-        <item name="colorPrimaryVariant">#959595</item>
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryVariant">#00BCD4</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
