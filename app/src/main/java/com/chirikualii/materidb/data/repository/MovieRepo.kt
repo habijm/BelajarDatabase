@@ -7,5 +7,4 @@ interface MovieRepo {
     suspend fun getNowPlayingMovie() : List<Movie>
     suspend fun getPopularMovieLocal() : List<Movie>
     suspend fun getNowPlayingLocal(): List<Movie>
-    suspend fun getSearchMovie(query:String): List<Movie>
 }
